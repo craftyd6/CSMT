@@ -30,4 +30,4 @@ jobs:
 
       #Change the publish profile to match what you named your secret setup in GitHub, Example shown below
 
-        publish-profile: ${{ secrets.CSMT }}
+        publish-profile: ${{ secrets.Principles_of_Web_Design_and_Technology }}
